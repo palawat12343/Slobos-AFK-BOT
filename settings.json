@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "slobos13.aternos.me",
+    "ip": "signaling-genetically.tun.ply.gg.",
     "port": 29195,
-    "version": "1.21.1"
+    "version": "26.3"
   },
   "position": {
     "enabled": true,
@@ -18,16 +18,16 @@
   },
   "utils": {
     "auto-auth": {
-      "enabled": true,
+      "enabled": false,
       "password": "Slobos"
     },
     "anti-afk": {
-      "enabled": true,
-      "sneak": true
+      "enabled": false,
+      "sneak": false
     },
     "chat-messages": {
-      "enabled": true,
-      "repeat": true,
+      "enabled": false,
+      "repeat": false,
       "repeat-delay": 500,
       "messages": [
         "I'm a regular player",
